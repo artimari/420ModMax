@@ -804,22 +804,21 @@
         </children>
     </event>
     <event name="VehicleOffroadHatchback">
-        <nominal>10</nominal>
-        <min>7</min>
-        <max>13</max>
-        <lifetime>300</lifetime>
-        <restock>0</restock>
-        <saferadius>500</saferadius>
-        <distanceradius>500</distanceradius>
+        <nominal>275</nominal>
+        <min>250</min>
+        <max>300</max>
+        <lifetime>10</lifetime>
+        <restock>1</restock>
+        <saferadius>5</saferadius>
+        <distanceradius>100</distanceradius>
         <cleanupradius>200</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="OffroadHatchback"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="OffroadHatchback_Blue"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="OffroadHatchback_White"/>
+            <child lootmax="5" lootmin="0" max="100" min="20" type="OffroadHatchback"/>
+            <child lootmax="5" lootmin="0" max="100" min="20" type="Canteen"/>
         </children>
     </event>
     <event name="VehicleSedan02">
