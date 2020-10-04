@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <eventposdef>
+	<event name="ModChampa_Offroad">
+		<pos x="6814.8" z="2737.7" a="3.0" />
+	</event>
+	<event name="ModChampa_CarKit">
+		<pos x="6818.8" z="2737.7" a="3.0" />
+		<pos x="6820.8" z="2740.7" a="3.0" />
+		<pos x="6822.8" z="2736.7" a="3.0" />
+		<pos x="6824.8" z="2733.7" a="3.0" />
+	</event>
 	<event name="VehicleCivilianSedan">
 		<pos x="12071.933594" z="9129.989258" a="317.953339" />
 		<pos x="12302.375001" z="9051.289062" a="60.399284" />
@@ -176,7 +185,7 @@
 		<pos x="6916.957519" z="3421.918457" a="296.656128" />
 		<pos x="2529.212891" z="5041.117676" a="56.153545" />
 	</event>
-    <event name="StaticHeliCrash">
+	<event name="StaticHeliCrash">
 		<zone smin="1" smax="3" dmin="3" dmax="5" r="45" />
 		<pos x="558.859619" z="12918.953125" a="-1" />
 		<pos x="154.159332" z="13299.455078" a="-1" />
@@ -273,7 +282,7 @@
 		<pos x="3427.892578" z="3295.283448" a="-1" />
 		<pos x="4848.869629" z="4719.773438" a="-1" />
 		<pos x="655.947754" z="1965.813354" a="-1" />
-    </event>
+	</event>
 	<event name="StaticChristmasTree">
 		<pos x="6560.29" z="2462.12" a="0.0" />
 		<pos x="1652.66" z="14230.71" a="0.0" />
@@ -289,15 +298,9 @@
 		<pos x="10468.54" z="2373.16" a="0.0" />
 		<pos x="2725.48" z="5288.75" a="0.0" />
 	</event>
-    <event name="Loot" />
-    <event name="VehicleOffroadHatchback">
-	    	<pos x="6814.8" z="2737.7" a="3.0" />
-		<pos x="6818.8" z="2737.7" a="3.0" />
-		<pos x="6820.8" z="2737.7" a="3.0" />
-		<pos x="6822.8" z="2737.7" a="3.0" />
-		<pos x="6824.8" z="2737.7" a="3.0" />
-    </event>
-    <event name="StaticPoliceCar">
+	<event name="Loot" />
+
+	<event name="StaticPoliceCar">
 		<pos x="1846.316407" z="11492.649414" a="336.442993" />
 		<pos x="1495.972169" z="11127.56543" a="308.914001" />
 		<pos x="8492.21875" z="14207.077148" a="60.056885" />
@@ -598,8 +601,8 @@
 		<pos x="10353.527344" z="2060.277831" a="48.209854" />
 		<pos x="10478.968751" z="2322.480958" a="310.009674" />
 		<pos x="10039.965819" z="1871.311158" a="191.264435" />
-    </event>
-    <event name="VehicleV3S">
+	</event>
+	<event name="VehicleV3S">
 		<pos x="7735.35498" z="14834.541016" a="275.906708" />
 		<pos x="2276.999268" z="15255.469727" a="55.468719" />
 		<pos x="1522.324341" z="14049.371094" a="119.360489" />
@@ -711,7 +714,7 @@
 		<pos x="12907.009766" z="6278.379395" a="64.131432" />
 		<pos x="12046.332031" z="5117.61377" a="89.640213" />
 		<pos x="10257.797851" z="3617.499512" a="270.770691" />
-    </event>
+	</event>
 	<event name="ItemPlanks">
 		<pos x="13076.671875" z="8285.913086" a="1.301008" />
 		<pos x="13078.390625" z="8287.134765" a="0" />
@@ -1005,9 +1008,9 @@
 		<pos x="3606.447998" z="2223.9292" a="198.866821" />
 		<pos x="3574.195069" z="2214.925293" a="294.601654" />
 		<pos x="3609.658936" z="2237.22168" a="287.890656" />
-		<pos x="3596.823486" z="2236.208984" a="20.201563" />	
-    </event>
-    <event name="VehicleV3SChassis" >
+		<pos x="3596.823486" z="2236.208984" a="20.201563" />
+	</event>
+	<event name="VehicleV3SChassis">
 		<pos x="7735.35498" z="14834.541016" a="275.906708" />
 		<pos x="2276.999268" z="15255.469727" a="55.468719" />
 		<pos x="1522.324341" z="14049.371094" a="119.360489" />
@@ -1121,19 +1124,19 @@
 		<pos x="10257.797851" z="3617.499512" a="270.770691" />
 	</event>
 	<event name="VehicleV3SCargo" />
-    <event name="VehicleTransitBus" />
-    <event name="InfectedVillage" />
-    <event name="InfectedSolitude" />
-    <event name="InfectedArmy" />
-    <event name="InfectedCity" />
-    <event name="InfectedMedic" />
-    <event name="InfectedPolice" />
-    <event name="InfectedFirefighter" />
-    <event name="InfectedPrisoner" />
-    <event name="AnimalDeer" />
-    <event name="AnimalCow" />
-    <event name="AnimalSheep" />
-    <event name="AnimalRoeDeer" />
-    <event name="AnimalWolf" />
-    <event name="AnimalWildBoar" />
+	<event name="VehicleTransitBus" />
+	<event name="InfectedVillage" />
+	<event name="InfectedSolitude" />
+	<event name="InfectedArmy" />
+	<event name="InfectedCity" />
+	<event name="InfectedMedic" />
+	<event name="InfectedPolice" />
+	<event name="InfectedFirefighter" />
+	<event name="InfectedPrisoner" />
+	<event name="AnimalDeer" />
+	<event name="AnimalCow" />
+	<event name="AnimalSheep" />
+	<event name="AnimalRoeDeer" />
+	<event name="AnimalWolf" />
+	<event name="AnimalWildBoar" />
 </eventposdef>

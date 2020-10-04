@@ -4,6 +4,14 @@
         <onconnect>1</onconnect>
         <text>I live my life a quarter mile at a time...</text>
     </message>
+    <message>
+        <repeat>15</repeat>
+        <text>Light a blunt, grab your mic, enjoy the ride 🏎🏴‍☠️!</text>
+    </message>
+    <message>
+        <repeat>15</repeat>
+        <text>!! Zombies are spawning up to 10x today !!</text>
+    </message>
 <!--
 See https://community.bistudio.com/wiki/DayZ:Server_Messages for more information
 	

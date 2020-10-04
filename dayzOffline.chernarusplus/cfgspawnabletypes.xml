@@ -3420,6 +3420,24 @@
 			<item name="Sedan_02_Trunk_Grey" chance="0.20" />
 		</attachments>
 	</type>
+	<type name="V3S_Cargo_Grey">
+		<attachments chance="1.00">
+			<item name="V3SWheel" chance="1.00" />
+			<item name="V3SWheel" chance="1.00" />
+			<item name="V3SWheel" chance="1.00" />
+			<item name="V3SWheel" chance="1.00" />
+			<item name="V3SWheelDouble" chance="1.00" />
+			<item name="V3SWheelDouble" chance="1.00" />
+			<item name="V3SWheelDouble" chance="1.00" />
+			<item name="V3SWheelDouble" chance="1.00" />
+			<item name="TruckBattery" chance="1.00" />
+			<item name="HeadlightH7" chance="1.00" />
+			<item name="HeadlightH7" chance="1.00" />
+			<item name="V3SHood_Blue" chance="1.00" />
+			<item name="V3SDoors_Driver_Grey" chance="1.00" />
+			<item name="V3SDoors_CoDriver_Grey" chance="1.00" />
+		</attachments>
+	</type>
 <!--
 	<type name="V3S_Chassis">
 		<attachments chance="1.00">
