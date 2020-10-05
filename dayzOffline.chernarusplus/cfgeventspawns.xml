@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <eventposdef>
-	<event name="ModChampa_Offroad">
-		<pos x="6814.8" z="2737.7" a="3.0" />
+	<event name="ModChampaOffroad">
+		<pos x="6825.18" z="2568.09" a="5.9" />
+		<pos x="6845.18" z="2568.09" a="5.9" />
 	</event>
-	<event name="ModChampa_CarKit">
-		<pos x="6818.8" z="2737.7" a="3.0" />
-		<pos x="6820.8" z="2740.7" a="3.0" />
-		<pos x="6822.8" z="2736.7" a="3.0" />
-		<pos x="6824.8" z="2733.7" a="3.0" />
+	<event name="ModChampaCarKit">
+		<pos x="6830.18" z="2568.09" a="5.9" />
+		<pos x="6820.18" z="2568.09" a="5.9" />
+		<pos x="6815.18" z="2568.09" a="5.9" />
 	</event>
 	<event name="VehicleCivilianSedan">
 		<pos x="12071.933594" z="9129.989258" a="317.953339" />

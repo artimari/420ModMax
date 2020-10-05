@@ -6,7 +6,13 @@
     </message>
     <message>
         <repeat>15</repeat>
+        <onconnect>1</onconnect>
         <text>Light a blunt, grab your mic, enjoy the ride 🏎🏴‍☠️!</text>
+    </message>
+    <message>
+        <repeat>15</repeat>
+        <onconnect>1</onconnect>
+        <text>KOS Discouraged. Make a Friend!</text>
     </message>
     <message>
         <repeat>15</repeat>
