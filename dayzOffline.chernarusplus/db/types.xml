@@ -4136,18 +4136,17 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Colt1911">
-        <nominal>400</nominal>
+        <nominal>40</nominal>
         <lifetime>86400</lifetime>
         <restock>0</restock>
         <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
-        <cost>50</cost>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <tag name="shelves"/>
     </type>
     <type name="CombatBoots_Beige">
         <nominal>5</nominal>
@@ -4970,13 +4969,13 @@
         <usage name="Hunting"/>
     </type>
     <type name="DuctTape">
-        <nominal>200</nominal>
+        <nominal>80</nominal>
         <lifetime>86400</lifetime>
         <restock>0</restock>
         <min>60</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
-        <cost>10</cost>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <usage name="Industrial"/>
@@ -5010,16 +5009,15 @@
         <usage name="Industrial"/>
     </type>
     <type name="Engraved1911">
-        <nominal>150</nominal>
+        <nominal>5</nominal>
         <lifetime>86400</lifetime>
-        <restock>10</restock>
-        <min>20</min>
+        <restock>0</restock>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
-        <cost>90</cost>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <tag name="shelves"/>
         <usage name="Military"/>
         <usage name="Town"/>
         <usage name="Village"/>
@@ -5051,13 +5049,13 @@
         <usage name="Industrial"/>
     </type>
     <type name="FAL">
-        <nominal>6</nominal>
+        <nominal>4</nominal>
         <lifetime>172800</lifetime>
         <restock>0</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
-        <cost>40</cost>
+        <cost>100</cost>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
         <category name="weapons"/>
         <usage name="Military"/>
@@ -8484,9 +8482,9 @@
         <usage name="Hunting"/>
     </type>
     <type name="LargeTent">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>3888000</lifetime>
-        <restock>300</restock>
+        <restock>43200</restock>
         <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -9360,13 +9358,13 @@
         <category name="food"/>
     </type>
     <type name="Mag_1911_7Rnd">
-        <nominal>400</nominal>
+        <nominal>40</nominal>
         <lifetime>86400</lifetime>
         <restock>0</restock>
-        <min>40</min>
-        <quantmin>100</quantmin>
+        <min>20</min>
+        <quantmin>10</quantmin>
         <quantmax>100</quantmax>
-        <cost>20</cost>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <tag name="shelves"/>
@@ -10929,7 +10927,7 @@
     <type name="OffroadHatchback">
         <nominal>0</nominal>
         <lifetime>3</lifetime>
-        <restock>60</restock>
+        <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -10939,7 +10937,7 @@
     <type name="OffroadHatchback_Blue">
         <nominal>0</nominal>
         <lifetime>3</lifetime>
-        <restock>60</restock>
+        <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -11118,9 +11116,9 @@
         <usage name="Medic"/>
     </type>
     <type name="PartyTent">
-        <nominal>0</nominal>
+        <nominal>20</nominal>
         <lifetime>3888000</lifetime>
-        <restock>300</restock>
+        <restock>43200</restock>
         <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -11166,13 +11164,13 @@
         <usage name="Lunapark"/>
     </type>
     <type name="PeachesCan">
-        <nominal>450</nominal>
+        <nominal>25</nominal>
         <lifetime>86400</lifetime>
-        <restock>10</restock>
-        <min>70</min>
+        <restock>60</restock>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
-        <cost>10</cost>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
         <tag name="shelves"/>
@@ -15179,8 +15177,8 @@
         <restock>0</restock>
         <min>100</min>
         <quantmin>20</quantmin>
-        <quantmax>100</quantmax>
-        <cost>10</cost>
+        <quantmax>70</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="WaterproofBag_Green">
