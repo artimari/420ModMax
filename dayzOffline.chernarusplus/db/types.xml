@@ -134,7 +134,7 @@
         <category name="weapons"/>
         <usage name="Military"/>
     </type>
-    <type name="AKS74U_Black">
+    <type name="AKS74U_Black"> 
         <nominal>0</nominal>
         <lifetime>172800</lifetime>
         <restock>0</restock>
