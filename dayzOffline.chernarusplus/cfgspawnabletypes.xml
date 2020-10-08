@@ -2016,15 +2016,12 @@
 			<item name="M4_OEBttstck" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="M4_PlasticHndgrd" chance="1.00" />
+			<item name="M4_CarryHandleOptic" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="M4_T3NRDSOptic" chance="1.00" />
-		</attachments>
-		<attachments chance="0.30">
 			<item name="Mag_STANAG_30Rnd" chance="1.00" />
 		</attachments>
-		<attachments chance="0.30">
+		<attachments chance="1.00">
 			<item name="M4_Suppressor" chance="1.00" />
 		</attachments>
 	</type>
