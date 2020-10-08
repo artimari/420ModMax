@@ -2938,6 +2938,21 @@
 		<attachments chance="1.00">
 			<item name="Mag_CMAG_30Rnd" chance="1.00" />
 		</attachments>
+		<attachments chance="1.00">
+			<item name="tunacan" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="canteen" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AKM" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AKM_Drum75Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SeaChest" chance="1.00" />
+		</attachments>
 	</type>
 	<type name="OffroadHatchback_Blue">
 		<attachments chance="1.00">
@@ -3015,6 +3030,21 @@
 		<attachments chance="1.00">
 			<item name="Mag_CMAG_30Rnd" chance="1.00" />
 		</attachments>
+		<attachments chance="1.00">
+			<item name="tunacan" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="canteen" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AKM" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AKM_Drum75Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SeaChest" chance="1.00" />
+		</attachments>
 	</type>
 	<type name="OffroadHatchback_White">
 		<attachments chance="1.00">
@@ -3091,6 +3121,21 @@
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Mag_CMAG_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="tunacan" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="canteen" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AKM" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AKM_Drum75Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SeaChest" chance="1.00" />
 		</attachments>
 	</type>
 	<!-- -->
@@ -3173,6 +3218,21 @@
 		<attachments chance="1.00">
 			<item name="Mag_CMAG_30Rnd" chance="1.00" />
 		</attachments>
+		<attachments chance="1.00">
+			<item name="tunacan" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="canteen" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AKM" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AKM_Drum75Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SeaChest" chance="1.00" />
+		</attachments>
 	</type>
 	<type name="CivilianSedan_Wine">
 		<attachments chance="1.00">
@@ -3252,6 +3312,21 @@
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Mag_CMAG_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="tunacan" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="canteen" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AKM" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AKM_Drum75Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SeaChest" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="CivilianSedan_Black">
@@ -3333,6 +3408,21 @@
 		<attachments chance="1.00">
 			<item name="Mag_CMAG_30Rnd" chance="1.00" />
 		</attachments>
+		<attachments chance="1.00">
+			<item name="tunacan" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="canteen" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AKM" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AKM_Drum75Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SeaChest" chance="1.00" />
+		</attachments>
 	</type>
     <type name="Hatchback_02">
 		<attachments chance="1.00">
@@ -3412,6 +3502,21 @@
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Mag_CMAG_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="tunacan" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="canteen" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AKM" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AKM_Drum75Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SeaChest" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="Sedan_02">
@@ -3493,6 +3598,21 @@
 		<attachments chance="1.00">
 			<item name="Mag_CMAG_30Rnd" chance="1.00" />
 		</attachments>
+		<attachments chance="1.00">
+			<item name="tunacan" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="canteen" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AKM" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AKM_Drum75Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SeaChest" chance="1.00" />
+		</attachments>
 	</type>
 	<type name="Sedan_02_Red">
 		<attachments chance="1.00">
@@ -3573,6 +3693,21 @@
 		<attachments chance="1.00">
 			<item name="Mag_CMAG_30Rnd" chance="1.00" />
 		</attachments>
+		<attachments chance="1.00">
+			<item name="tunacan" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="canteen" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AKM" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AKM_Drum75Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SeaChest" chance="1.00" />
+		</attachments>
 	</type>
 	<type name="Sedan_02_Grey">
 		<attachments chance="1.00">
@@ -3652,6 +3787,21 @@
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Mag_CMAG_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="tunacan" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="canteen" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AKM" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AKM_Drum75Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SeaChest" chance="1.00" />
 		</attachments>
 	</type>
 	<!--
