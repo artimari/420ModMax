@@ -740,7 +740,7 @@
     </children>
   </event>
   <event name="TrajectoryPear">
-    <nominal>140</nominal>
+    <nominal>500</nominal>
     <min>2</min>
     <max>4</max>
     <lifetime>180</lifetime>
@@ -808,12 +808,12 @@
     </children>
   </event>
   <event name="VehicleCivilianSedan">
-    <nominal>10</nominal>
-    <min>7</min>
-    <max>13</max>
-    <lifetime>300</lifetime>
+    <nominal>40</nominal>
+    <min>40</min>
+    <max>50</max>
+    <lifetime>10</lifetime>
     <restock>0</restock>
-    <saferadius>500</saferadius>
+    <saferadius>1</saferadius>
     <distanceradius>1</distanceradius>
     <cleanupradius>200</cleanupradius>
     <flags deletable="0" init_random="0" remove_damaged="1" />
@@ -821,16 +821,16 @@
     <limit>mixed</limit>
     <active>1</active>
     <children>
-      <child lootmax="0" lootmin="0" max="5" min="3" type="CivilianSedan" />
-      <child lootmax="0" lootmin="0" max="5" min="3" type="CivilianSedan_Black" />
-      <child lootmax="0" lootmin="0" max="5" min="3" type="CivilianSedan_Wine" />
+      <child lootmax="0" lootmin="0" max="40" min="40" type="CivilianSedan" />
+      <child lootmax="0" lootmin="0" max="40" min="40" type="CivilianSedan_Black" />
+      <child lootmax="0" lootmin="0" max="40" min="40" type="CivilianSedan_Wine" />
     </children>
   </event>
   <event name="VehicleHatchback02">
     <nominal>40</nominal>
     <min>40</min>
     <max>50</max>
-    <lifetime>300</lifetime>
+    <lifetime>10</lifetime>
     <restock>0</restock>
     <saferadius>1</saferadius>
     <distanceradius>1</distanceradius>
@@ -846,13 +846,13 @@
     </children>
   </event>
   <event name="VehicleSedan02">
-    <nominal>10</nominal>
-    <min>7</min>
-    <max>13</max>
-    <lifetime>300</lifetime>
+    <nominal>40</nominal>
+    <min>40</min>
+    <max>50</max>
+    <lifetime>10</lifetime>
     <restock>0</restock>
-    <saferadius>500</saferadius>
-    <distanceradius>500</distanceradius>
+    <saferadius>1</saferadius>
+    <distanceradius>1</distanceradius>
     <cleanupradius>200</cleanupradius>
     <flags deletable="0" init_random="0" remove_damaged="1" />
     <position>fixed</position>
