@@ -2861,8 +2861,7 @@
 			<item name="Mag_AKM_Drum75Rnd" chance="0.10" />
 		</cargo>
 	</type>
-	<!-- VEHICLES -->
-	<type name="OffroadHatchback">
+		<type name="OffroadHatchback">
 		<attachments chance="1.00">
 			<item name="HatchbackWheel" chance="1.00" />
 		</attachments>
@@ -2964,6 +2963,27 @@
 		</attachments>
 		<attachments chance="1.00">
 			<item name="WoodAxe" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalBaconCan_Opened" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalBaconCan_Opened" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalBaconCan_Opened" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalBaconCan_Opened" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="canteen" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="canteen" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="canteen" chance="1.00" />
 		</attachments>
 	</type>
 		<type name="CivilianSedan">
@@ -3072,6 +3092,27 @@
 		<attachments chance="1.00">
 			<item name="WoodAxe" chance="1.00" />
 		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalBaconCan_Opened" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalBaconCan_Opened" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalBaconCan_Opened" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalBaconCan_Opened" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="canteen" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="canteen" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="canteen" chance="1.00" />
+		</attachments>
 	</type>
 	    <type name="Hatchback_02">
 		<attachments chance="1.00">
@@ -3179,8 +3220,29 @@
 		<attachments chance="1.00">
 			<item name="WoodAxe" chance="1.00" />
 		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalBaconCan_Opened" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalBaconCan_Opened" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalBaconCan_Opened" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalBaconCan_Opened" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="canteen" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="canteen" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="canteen" chance="1.00" />
+		</attachments>
 	</type>
-	<type name="Sedan_02">
+		<type name="Sedan_02">
 		<attachments chance="1.00">
 			<item name="Sedan_02_Wheel" chance="1.00" />
 		</attachments>
@@ -3285,6 +3347,27 @@
 		</attachments>
 		<attachments chance="1.00">
 			<item name="WoodAxe" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalBaconCan_Opened" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalBaconCan_Opened" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalBaconCan_Opened" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalBaconCan_Opened" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="canteen" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="canteen" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="canteen" chance="1.00" />
 		</attachments>
 	</type>
 	<!--
