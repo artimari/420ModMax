@@ -2950,7 +2950,7 @@
 			<item name="Mag_AKM_Drum75Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="SeaChest" chance="1.00" />
+			<item name="TacticalGloves_Beige" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="ParamedicJacket_Crimson" chance="1.00" />
@@ -2977,13 +2977,13 @@
 			<item name="TacticalBaconCan_Opened" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="canteen" chance="1.00" />
+			<item name="WoodAxe" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="canteen" chance="1.00" />
+			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="canteen" chance="1.00" />
+			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
@@ -3025,13 +3025,13 @@
 			<item name="AmmoBox_762x54Tracer_20Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Ammo_308WinTracer" chance="1.00" />
+			<item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Ammo_308WinTracer" chance="1.00" />
+			<item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Ammo_308WinTracer" chance="1.00" />
+			<item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="WeaponCleaningKit" chance="1.00" />
@@ -3040,10 +3040,46 @@
 			<item name="DuctTape" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="LargeGasCanister" chance="1.00" />
+			<item name="WeaponCleaningKit" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="LargeGasCanister" chance="1.00" />
+			<item name="Izh43Shotgun" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CombatBoots_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalGloves_Beige" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Defibrillator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TetracyclineAntibiotics" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="USMCJacket_Woodland" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WolfMask" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_00buck_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_00buck_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Saiga" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_Saiga_Drum20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_00buck_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AssaultBag_Black" chance="1.00" />
 		</attachments>
 	</type>
 		<type name="CivilianSedan">
@@ -3126,10 +3162,10 @@
 			<item name="Mag_CMAG_30Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="tunacan" chance="1.00" />
+			<item name="TunaCan" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="canteen" chance="1.00" />
+			<item name="Canteen" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="AKM" chance="1.00" />
@@ -3138,7 +3174,7 @@
 			<item name="Mag_AKM_Drum75Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="SeaChest" chance="1.00" />
+			<item name="TacticalGloves_Beige" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="ParamedicJacket_Crimson" chance="1.00" />
@@ -3165,13 +3201,13 @@
 			<item name="TacticalBaconCan_Opened" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="canteen" chance="1.00" />
+			<item name="WoodAxe" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="canteen" chance="1.00" />
+			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="canteen" chance="1.00" />
+			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
@@ -3213,13 +3249,13 @@
 			<item name="AmmoBox_762x54Tracer_20Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Ammo_308WinTracer" chance="1.00" />
+			<item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Ammo_308WinTracer" chance="1.00" />
+			<item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Ammo_308WinTracer" chance="1.00" />
+			<item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="WeaponCleaningKit" chance="1.00" />
@@ -3228,10 +3264,46 @@
 			<item name="DuctTape" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="LargeGasCanister" chance="1.00" />
+			<item name="WeaponCleaningKit" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="LargeGasCanister" chance="1.00" />
+			<item name="Izh43Shotgun" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CombatBoots_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalGloves_Beige" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Defibrillator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TetracyclineAntibiotics" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="USMCJacket_Woodland" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WolfMask" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_00buck_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_00buck_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Saiga" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_Saiga_Drum20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_00buck_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AssaultBag_Black" chance="1.00" />
 		</attachments>
 	</type>
 	    <type name="Hatchback_02">
@@ -3314,10 +3386,10 @@
 			<item name="Mag_CMAG_30Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="tunacan" chance="1.00" />
+			<item name="TunaCan" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="canteen" chance="1.00" />
+			<item name="Canteen" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="AKM" chance="1.00" />
@@ -3326,7 +3398,7 @@
 			<item name="Mag_AKM_Drum75Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="SeaChest" chance="1.00" />
+			<item name="TacticalGloves_Beige" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="ParamedicJacket_Crimson" chance="1.00" />
@@ -3353,13 +3425,13 @@
 			<item name="TacticalBaconCan_Opened" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="canteen" chance="1.00" />
+			<item name="WoodAxe" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="canteen" chance="1.00" />
+			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="canteen" chance="1.00" />
+			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
@@ -3401,13 +3473,13 @@
 			<item name="AmmoBox_762x54Tracer_20Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Ammo_308WinTracer" chance="1.00" />
+			<item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Ammo_308WinTracer" chance="1.00" />
+			<item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Ammo_308WinTracer" chance="1.00" />
+			<item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="WeaponCleaningKit" chance="1.00" />
@@ -3416,10 +3488,46 @@
 			<item name="DuctTape" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="LargeGasCanister" chance="1.00" />
+			<item name="WeaponCleaningKit" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="LargeGasCanister" chance="1.00" />
+			<item name="Izh43Shotgun" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CombatBoots_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalGloves_Beige" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Defibrillator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TetracyclineAntibiotics" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="USMCJacket_Woodland" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WolfMask" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_00buck_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_00buck_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Saiga" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_Saiga_Drum20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_00buck_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AssaultBag_Black" chance="1.00" />
 		</attachments>
 	</type>
 		<type name="Sedan_02">
@@ -3502,10 +3610,10 @@
 			<item name="Mag_CMAG_30Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="tunacan" chance="1.00" />
+			<item name="TunaCan" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="canteen" chance="1.00" />
+			<item name="Canteen" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="AKM" chance="1.00" />
@@ -3514,7 +3622,7 @@
 			<item name="Mag_AKM_Drum75Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="SeaChest" chance="1.00" />
+			<item name="TacticalGloves_Beige" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="ParamedicJacket_Crimson" chance="1.00" />
@@ -3539,6 +3647,15 @@
 		</attachments>
 		<attachments chance="1.00">
 			<item name="TacticalBaconCan_Opened" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodAxe" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
@@ -3580,13 +3697,13 @@
 			<item name="AmmoBox_762x54Tracer_20Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Ammo_308WinTracer" chance="1.00" />
+			<item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Ammo_308WinTracer" chance="1.00" />
+			<item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Ammo_308WinTracer" chance="1.00" />
+			<item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="WeaponCleaningKit" chance="1.00" />
@@ -3595,10 +3712,46 @@
 			<item name="DuctTape" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="LargeGasCanister" chance="1.00" />
+			<item name="WeaponCleaningKit" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="LargeGasCanister" chance="1.00" />
+			<item name="Izh43Shotgun" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CombatBoots_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalGloves_Beige" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Defibrillator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TetracyclineAntibiotics" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="USMCJacket_Woodland" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WolfMask" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_00buck_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_00buck_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Saiga" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_Saiga_Drum20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_00buck_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AssaultBag_Black" chance="1.00" />
 		</attachments>
 	</type>
 	<!--
