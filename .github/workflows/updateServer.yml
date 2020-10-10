@@ -1,0 +1,35 @@
+# This is a basic workflow that is manually triggered
+
+name: Update DayZ Server
+
+# Controls when the action will run. Workflow runs when manually triggered using the UI
+# or API.
+on: push
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "greet"
+  updateRemote:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: ftp-action
+  # You may pin to the exact commit or the version.
+  # uses: sebastianpopp/ftp-action@eb75c5cb29d23ee4a729720a27dfb66403cb0f6d
+        uses: sebastianpopp/ftp-action@v2.0.0
+        with:
+          # FTP host
+          host:  usla046.gamedata.io
+          # FTP user
+          user: ni4791398_1
+          # FTP password
+          password: MTVlYTkx
+          # Force SSL encryption
+          forceSsl: false
+          # Local directory
+          localDir: .
+          # Remote directory
+          remoteDir: ./dayzxb_missions/ # optional, default is .
