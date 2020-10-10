@@ -35,8 +35,9 @@
 
         <!-- centers for grids of spawn points -->
         <generator_posbubbles>
-		        <pos x="6808.66" z="2719.27" />
-        </generator_posbubbles>
+		        <pos x="4784.06" z="10395.42" />
+		        <pos x="6817.40" z="2726.56" />
+		    </generator_posbubbles>
     </fresh>
 
     <!--
@@ -44,7 +45,8 @@
     -->
     <hop>
         <generator_posbubbles>
-			<pos x="6808.66" z="2719.27" />
+			<pos x="4784.06" z="10395.42" />
+		    <pos x="6817.40" z="2726.56" />
         </generator_posbubbles>
     </hop>
 
@@ -53,7 +55,8 @@
     -->
     <travel>
         <generator_posbubbles>
-			<pos x="6808.66" z="2719.27" />
+			<pos x="4784.06" z="10395.42" />
+		    <pos x="6817.40" z="2726.56" />
         </generator_posbubbles>
     </travel>
 </playerspawnpoints>
