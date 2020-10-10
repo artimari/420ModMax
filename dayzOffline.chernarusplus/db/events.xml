@@ -822,8 +822,13 @@
     <active>1</active>
     <children>
       <child lootmax="0" lootmin="0" max="40" min="40" type="CivilianSedan" />
-      <child lootmax="0" lootmin="0" max="40" min="40" type="CivilianSedan_Black" />
-      <child lootmax="0" lootmin="0" max="40" min="40" type="CivilianSedan_Wine" />
+      <child lootmax="3" lootmin="3" max="50" min="40" type="DuctTape" />
+      <child lootmax="3" lootmin="3" max="50" min="40" type="TacticalBaconCan_Opened" />
+      <child lootmax="3" lootmin="3" max="50" min="495" type="TacticalBaconCan_Opened" />
+      <child lootmax="3" lootmin="3" max="50" min="405" type="LargeGasCanister" />
+      <child lootmax="3" lootmin="3" max="50" min="5" type="DuctTape" />
+      <child lootmax="3" lootmin="3" max="50" min="5" type="WeaponCleaningKit" />
+      <child lootmax="3" lootmin="3" max="50" min="5" type="Saiga" />
     </children>
   </event>
   <event name="VehicleHatchback02">
@@ -841,8 +846,13 @@
     <active>1</active>
     <children>
       <child lootmax="0" lootmin="0" max="40" min="40" type="Hatchback_02" />
-      <child lootmax="0" lootmin="0" max="40" min="40" type="Hatchback_02_Black" />
-      <child lootmax="0" lootmin="0" max="40" min="40" type="Hatchback_02_Blue" />
+      <child lootmax="3" lootmin="3" max="50" min="40" type="DuctTape" />
+      <child lootmax="3" lootmin="3" max="50" min="40" type="TacticalBaconCan_Opened" />
+      <child lootmax="3" lootmin="3" max="50" min="40" type="TacticalBaconCan_Opened" />
+      <child lootmax="3" lootmin="3" max="50" min="40" type="LargeGasCanister" />
+      <child lootmax="3" lootmin="3" max="50" min="40" type="DuctTape" />
+      <child lootmax="3" lootmin="3" max="50" min="40" type="WeaponCleaningKit" />
+      <child lootmax="3" lootmin="3" max="50" min="40" type="Saiga" />
     </children>
   </event>
   <event name="VehicleSedan02">
@@ -859,9 +869,14 @@
     <limit>mixed</limit>
     <active>1</active>
     <children>
-      <child lootmax="0" lootmin="0" max="5" min="3" type="Sedan_02" />
-      <child lootmax="0" lootmin="0" max="5" min="3" type="Sedan_02_Grey" />
-      <child lootmax="0" lootmin="0" max="5" min="3" type="Sedan_02_Red" />
+      <child lootmax="0" lootmin="0" max="40" min="40" type="Sedan_02" />
+      <child lootmax="3" lootmin="3" max="50" min="40" type="DuctTape" />
+      <child lootmax="3" lootmin="3" max="50" min="40" type="TacticalBaconCan_Opened" />
+      <child lootmax="3" lootmin="3" max="50" min="40" type="TacticalBaconCan_Opened" />
+      <child lootmax="3" lootmin="3" max="50" min="40" type="LargeGasCanister" />
+      <child lootmax="3" lootmin="3" max="50" min="40" type="DuctTape" />
+      <child lootmax="3" lootmin="3" max="50" min="40" type="WeaponCleaningKit" />
+      <child lootmax="3" lootmin="3" max="50" min="40" type="Saiga" />
     </children>
   </event>
 </events>
