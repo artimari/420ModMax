@@ -14,7 +14,7 @@
 	<type name="Barrel_Yellow">
 		<hoarder />
 	</type>
-	<type name="CarTent">
+	<type name="WeaponCleaningKit">
 		<hoarder />
 	</type>
 	<type name="LargeTent">
@@ -41,7 +41,7 @@
 	<type name="PartyTent_Lunapark">
 		<hoarder />
 	</type>
-	<type name="SeaChest">
+	<type name="TacticalBaconCan_Opened">
 		<hoarder />
 	</type>
 	<type name="SmallProtectorCase">
@@ -2909,7 +2909,7 @@
 			<item name="M4A1" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="CarTent" chance="1.00" />
+			<item name="WeaponCleaningKit" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="AmmoBox_556x45Tracer_20Rnd" chance="1.00" />
@@ -2939,10 +2939,10 @@
 			<item name="Mag_CMAG_30Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="tunacan" chance="1.00" />
+			<item name="DuctTape" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="canteen" chance="1.00" />
+			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="AKM" chance="1.00" />
@@ -2951,7 +2951,7 @@
 			<item name="Mag_AKM_Drum75Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="SeaChest" chance="1.00" />
+			<item name="TacticalBaconCan_Opened" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="OffroadHatchback_Blue">
@@ -3001,7 +3001,7 @@
 			<item name="M4A1" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="CarTent" chance="1.00" />
+			<item name="WeaponCleaningKit" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="AmmoBox_556x45Tracer_20Rnd" chance="1.00" />
@@ -3031,10 +3031,10 @@
 			<item name="Mag_CMAG_30Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="tunacan" chance="1.00" />
+			<item name="DuctTape" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="canteen" chance="1.00" />
+			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="AKM" chance="1.00" />
@@ -3043,7 +3043,7 @@
 			<item name="Mag_AKM_Drum75Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="SeaChest" chance="1.00" />
+			<item name="TacticalBaconCan_Opened" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="OffroadHatchback_White">
@@ -3093,7 +3093,7 @@
 			<item name="M4A1" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="CarTent" chance="1.00" />
+			<item name="WeaponCleaningKit" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="AmmoBox_556x45Tracer_20Rnd" chance="1.00" />
@@ -3123,10 +3123,10 @@
 			<item name="Mag_CMAG_30Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="tunacan" chance="1.00" />
+			<item name="DuctTape" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="canteen" chance="1.00" />
+			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="AKM" chance="1.00" />
@@ -3135,7 +3135,7 @@
 			<item name="Mag_AKM_Drum75Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="SeaChest" chance="1.00" />
+			<item name="TacticalBaconCan_Opened" chance="1.00" />
 		</attachments>
 	</type>
 	<!-- -->
@@ -3189,7 +3189,7 @@
 			<item name="M4A1" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="CarTent" chance="1.00" />
+			<item name="WeaponCleaningKit" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="AmmoBox_556x45Tracer_20Rnd" chance="1.00" />
@@ -3219,10 +3219,10 @@
 			<item name="Mag_CMAG_30Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="tunacan" chance="1.00" />
+			<item name="DuctTape" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="canteen" chance="1.00" />
+			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="AKM" chance="1.00" />
@@ -3231,7 +3231,7 @@
 			<item name="Mag_AKM_Drum75Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="SeaChest" chance="1.00" />
+			<item name="TacticalBaconCan_Opened" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="CivilianSedan_Wine">
@@ -3284,7 +3284,7 @@
 			<item name="M4A1" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="CarTent" chance="1.00" />
+			<item name="WeaponCleaningKit" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="AmmoBox_556x45Tracer_20Rnd" chance="1.00" />
@@ -3314,10 +3314,10 @@
 			<item name="Mag_CMAG_30Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="tunacan" chance="1.00" />
+			<item name="DuctTape" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="canteen" chance="1.00" />
+			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="AKM" chance="1.00" />
@@ -3326,7 +3326,7 @@
 			<item name="Mag_AKM_Drum75Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="SeaChest" chance="1.00" />
+			<item name="TacticalBaconCan_Opened" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="CivilianSedan_Black">
@@ -3379,7 +3379,7 @@
 			<item name="M4A1" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="CarTent" chance="1.00" />
+			<item name="WeaponCleaningKit" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="AmmoBox_556x45Tracer_20Rnd" chance="1.00" />
@@ -3409,10 +3409,10 @@
 			<item name="Mag_CMAG_30Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="tunacan" chance="1.00" />
+			<item name="DuctTape" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="canteen" chance="1.00" />
+			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="AKM" chance="1.00" />
@@ -3421,7 +3421,7 @@
 			<item name="Mag_AKM_Drum75Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="SeaChest" chance="1.00" />
+			<item name="TacticalBaconCan_Opened" chance="1.00" />
 		</attachments>
 	</type>
     <type name="Hatchback_02">
@@ -3474,7 +3474,7 @@
 			<item name="M4A1" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="CarTent" chance="1.00" />
+			<item name="WeaponCleaningKit" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="AmmoBox_556x45Tracer_20Rnd" chance="1.00" />
@@ -3504,10 +3504,10 @@
 			<item name="Mag_CMAG_30Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="tunacan" chance="1.00" />
+			<item name="DuctTape" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="canteen" chance="1.00" />
+			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="AKM" chance="1.00" />
@@ -3516,7 +3516,7 @@
 			<item name="Mag_AKM_Drum75Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="SeaChest" chance="1.00" />
+			<item name="TacticalBaconCan_Opened" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="Sedan_02">
@@ -3569,7 +3569,7 @@
 			<item name="M4A1" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="CarTent" chance="1.00" />
+			<item name="WeaponCleaningKit" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="AmmoBox_556x45Tracer_20Rnd" chance="1.00" />
@@ -3599,10 +3599,10 @@
 			<item name="Mag_CMAG_30Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="tunacan" chance="1.00" />
+			<item name="DuctTape" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="canteen" chance="1.00" />
+			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="AKM" chance="1.00" />
@@ -3611,7 +3611,7 @@
 			<item name="Mag_AKM_Drum75Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="SeaChest" chance="1.00" />
+			<item name="TacticalBaconCan_Opened" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="Sedan_02_Red">
@@ -3664,7 +3664,7 @@
 			<item name="M4A1" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="CarTent" chance="1.00" />
+			<item name="WeaponCleaningKit" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="AmmoBox_556x45Tracer_20Rnd" chance="1.00" />
@@ -3694,10 +3694,10 @@
 			<item name="Mag_CMAG_30Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="tunacan" chance="1.00" />
+			<item name="DuctTape" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="canteen" chance="1.00" />
+			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="AKM" chance="1.00" />
@@ -3706,7 +3706,7 @@
 			<item name="Mag_AKM_Drum75Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="SeaChest" chance="1.00" />
+			<item name="TacticalBaconCan_Opened" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="Sedan_02_Grey">
@@ -3759,7 +3759,7 @@
 			<item name="M4A1" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="CarTent" chance="1.00" />
+			<item name="WeaponCleaningKit" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="AmmoBox_556x45Tracer_20Rnd" chance="1.00" />
@@ -3789,10 +3789,10 @@
 			<item name="Mag_CMAG_30Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="tunacan" chance="1.00" />
+			<item name="DuctTape" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="canteen" chance="1.00" />
+			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="AKM" chance="1.00" />
@@ -3801,7 +3801,7 @@
 			<item name="Mag_AKM_Drum75Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="SeaChest" chance="1.00" />
+			<item name="TacticalBaconCan_Opened" chance="1.00" />
 		</attachments>
 	</type>
 	<!--
